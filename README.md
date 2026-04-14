@@ -118,7 +118,7 @@ const unsigned long PC_BAUD  = 115200;
 const uint8_t AVG_WINDOW_FRAMES = 6;
 const bool PRINT_FRAME_HEX = false;
 
-
+```
 
 
 Example output
