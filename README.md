@@ -122,6 +122,8 @@ const bool PRINT_FRAME_HEX = false;
 
 
 Example output
+
+```cpp
 ================================================
 Decoded Kaifa KFM_001 power frame
 ================================================
@@ -151,3 +153,4 @@ Averages:
   U1 avg: 233.3 V
   U2 avg: 0.0 V
   U3 avg: 232.9 V
+```
