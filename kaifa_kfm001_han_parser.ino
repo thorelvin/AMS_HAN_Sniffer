@@ -3,6 +3,7 @@
 /**
  * @file kaifa_kfm001_han_parser.ino
  * @brief Receive and decode Kaifa KFM_001 HAN frames over SoftwareSerial.
+ * @author THOR ELVIN VALØ
  *
  * This sketch reads Norwegian AMS/HAN telegrams from a Kaifa meter through a
  * TTL-level M-Bus adapter, detects HDLC-style frame boundaries, decodes the
